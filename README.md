@@ -16,7 +16,7 @@ To use python3, make sure to install version 3.8+ on your machine.
 
 **Virtual environment**: The use of a virtual environment via Anaconda is recommended for this project. If you choose not to use a virtual environment, it is up to you to make sure that all dependencies are installed. To establish a Conda virtual environment, execute the following commands:
 ```bash
-git clone https://github.com/Hans-Lan/HKU-DASC7606-A2.git
+git clone https://github.com/Hans-Lan/DASC7606-A2.git
 conda create -n ddpm python=3.10
 conda activate ddpm
 ```
